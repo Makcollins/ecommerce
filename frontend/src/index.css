@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* To make the hr in the Navlinks in navbar visible for an active page */
+a.active hr {
+    display: block;
+}
