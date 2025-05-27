@@ -5,7 +5,7 @@ const LatestCollection = () => {
     const {products} = useContext(ShopContext);
   return (
     <div>
-        d
+        
     </div>
   )
 }
